@@ -7,7 +7,9 @@
     <title>C罗风采</title>
 </head>
     <style>
- a:hover {
+ a:link {
+  color: red;
+}a:hover {
   color: green;
 }
 </style>
